@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Raunit from India<br><br>- 🔭 I’m an Frontend Devloper<br>- 📚 I'm currently learning Frontend Devlopment<br>- ⚡ In my free time I used to play Chess</p>
 
 ###
 
